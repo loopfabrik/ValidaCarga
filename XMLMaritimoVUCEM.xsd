@@ -385,8 +385,6 @@
         <xs:simpleType>
           <xs:restriction base="xs:integer">
             <xs:enumeration id="Nuevo" value="1"/>
-            <xs:enumeration id="Rectificar" value="2"/>
-            <xs:enumeration id="Eliminacion" value="3"/>
           </xs:restriction>
         </xs:simpleType>
       </xs:attribute>
