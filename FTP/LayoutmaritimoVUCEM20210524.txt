@@ -1,0 +1,5 @@
+GH|HBL:AN:1:50|MBL:AN:1:50|CAATNaviera:AN:4:4|CAAT:AN:4:4|TipoOperacion:N:1:1|PaisOrigen:A:3:3|PuertoOrigen:A:3:3|PaisDestino:A:3:3|PuertoDestino:A:3:3|PaisUltimo:A:3:3|PuertoUltimo:A:3:3|Embalaje:A:3:3|TotalPiezas:N:1:4|PesoTotal:N:1:10:|UnidadPeso:N:1:2|Aduana:AN:4:4|FechaArriboSalida:F:10:10|Movimiento:N:1:1
+RT|TipoRemitente:N:1:1|Nombre:AN:1:60|RFC:AN:12:50|Pais:A:3:3|Domicilio:AN:1:110|Estado:AN:2:3|CodigoPostal:AN:1:15|Contacto:AN:0:60|TelefonoContacto:AN:0:256|TipoTelefono:A:0:1|CorreoContacto:AN:0:256
+CO|TipoContenedor:AN:2:2|TipoCarga:A:1:1|NumeroContenedor:AN:5:22|Largo:N:0:8|Ancho:N:0:8|Alto:N:0:8|TipoEquipo:AN:4:4
+MC|Embalaje:A:3:3|Piezas:N:1:10|Peso:N:1:10|UnidadPeso:N:1:2|PaisOrigen:A:3:3|FraccionArancelaria:N:0:6|MarcasNumero:AN:0:48|Descripcion:AN:1:45
+MP|NumeroOnu:AN:4:10|ClaseOnu:AN:1:4|Descripcion:AN:2:60|Contacto:AN:1:24
